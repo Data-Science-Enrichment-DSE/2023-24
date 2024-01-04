@@ -2,7 +2,7 @@
 
 This is the github repository for DSE for the academic year 2023-24. The repository will hold all session material and will be updated after each session.
 
-DSE sessions are non-assessed, in-person (face to face), and not mandatory, but will be used to provide additional useful information and knowledge, not included in the Data Science or Fintech programmes.
+DSE sessions are non-assessed, in-person (face to face), and not mandatory sessions that provide additional useful information and knowledge, not included in the Data Science or Fintech programmes.
 
 Due to the nature of the unit, the sessions are designed to be as independent from each other as possible, so that you can attend the ones you think might be most useful to you. The sessions will introduce tools that might be useful in your core units such as version control, project planning, report writing and presentations. 
 
