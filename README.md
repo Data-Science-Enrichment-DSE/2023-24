@@ -6,7 +6,7 @@ DSE sessions are non-assessed, in-person (face to face), and not mandatory, but 
 
 Due to the nature of the unit, the sessions are designed to be as independent from each other as possible, so that you can attend the ones you think might be most useful to you. The sessions will introduce tools that might be useful in your core units such as version control, project planning, report writing and presentations. 
 
-In academic year 2023-24 this unit is delivered by Theo Constantinides (Unit Director), Dr. Dalila Avdic, Dr. Sebastien Rochat and Dr. Efi Psomopoulou, plus occasionally guests will be joining us.
+In academic year 2023-24 this unit is delivered by Theo Constantinides (Unit Director), Dr. Dalila Avdic, Dr. Sebastien Rochat, Dr. Efi Psomopoulou, and Gaby Miles, plus occasionally guests will be joining us.
 
 ## Schedule
 
@@ -34,7 +34,7 @@ There are many sessions without a topic (Topic TBD). We will try to fill these w
 - Week 13: Introduction to individual projects (with industry projects)
 - Week 14: Project planning/Time management
 - Week 15: Individual Project Ethics
-- Week 16: Topic TBD 
+- Week 16: Oracle Cloud 
 - Week 17: Thesis Writing
 - Week 18: Reading Week
 - Week 19: Topic TBD (IBM Cloudant)
