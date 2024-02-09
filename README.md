@@ -31,13 +31,13 @@ There are many sessions without a topic (Topic TBD). We will try to fill these w
 
 ### TB2
 
-- Week 13: Introduction to individual projects (with industry projects)
-- Week 14: Project planning/Time management
-- Week 15: Individual Project Ethics
+- Week 13: CANCELLED
+- Week 14: Introduction to individual projects
+- Week 15: Project planning/Time management
 - Week 16: Oracle Cloud 
 - Week 17: Thesis Writing
 - Week 18: Reading Week
-- Week 19: Topic TBD (IBM Cloudant)
+- Week 19: Individual Project Ethics
 - Week 20: Topic TBD
 - Week 21: Oral/Video presentations
 - Week 22: Topic TBD
