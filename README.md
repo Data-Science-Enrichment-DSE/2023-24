@@ -38,7 +38,7 @@ There are many sessions without a topic (Topic TBD). We will try to fill these w
 - Week 17: Thesis Writing
 - Week 18: Reading Week
 - Week 19: Individual Project Ethics
-- Week 20: Topic TBD
+- Week 20: Introduction to Tensorflow
 - Week 21: Oral/Video presentations
 - Week 22: Topic TBD
 - Week 23: Topic TBD
